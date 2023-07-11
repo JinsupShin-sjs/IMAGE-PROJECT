@@ -1,4 +1,4 @@
-## 3rd Project (Team)
+# 3rd Project (Team)
 
 # 흉부 X-ray를 통한 질병 유무 파악 모델
 - 사용 방법
